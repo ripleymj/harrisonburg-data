@@ -3,6 +3,7 @@
 ## Crime
 
 - [JMU crime log](https://www.jmu.edu/police/clerycompliance/daily-crime-log.shtml)
+- [Virginia court records](https://www.vacourts.gov/caseinfo/home.html)
 - [Virginia crime stats](https://va.beyond2020.com/va_public)
 
 ## Energy and Environment
@@ -34,7 +35,10 @@
 
 ## Random
 
+- [Harrisonburg construction permits](https://permits.harrisonburgva.gov/Dashboard.aspx)
 - [JMU fact book](https://www.jmu.edu/pair/ir/factbook/index.shtml)
+- [Restaurant inspections](https://inspections.myhealthdepartment.com/va-central-shenandoah)
+- [Virginia 811 locate requests](https://va811.com/check-status/ticket-search/)
 
 ## Things
 
