@@ -23,6 +23,17 @@
 - [VA election results](https://www.elections.virginia.gov/resultsreports/election-results/)
 - [SCHEV agendas/minutes](https://www.schev.edu/about/council/council-meetings-and-agendas)
 
+## Live Streams
+
+- [JMU AUBC (archived)](https://app.oxblue.com/?openlink=sbballard/jmuconvocationcenter)
+- [JMU Carrier Library](https://app.oxblue.com/?openlink=kjellstromlee/jmucarrierlibrary)
+- [JMU CHBS (archived)](https://app.oxblue.com?openlink=Skanska/Harrisonburg)
+- [JMU D-Hall (archived)](https://app.oxblue.com/?openlink=skanska/JMUDining)
+- [JMU new dorm](https://app.oxblue.com/?openlink=sbballard/jmu-village-housing)
+- [JMU Quad](https://www.youtube.com/watch?v=NUc5p2yWbk8)
+- [JMU Wind-turbine Weatherbug](https://www.weatherbug.com/weather-camera/?cam=HRRJM)
+- [VDOT Traffic Cameras](https://www.511virginia.org/)
+
 ## Money
 
 - [Harrisonburg budget](https://harrisonburgva.gov/budget)
