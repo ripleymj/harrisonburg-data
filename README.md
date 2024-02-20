@@ -48,6 +48,7 @@
 
 - [Harrisonburg construction permits](https://permits.harrisonburgva.gov/Dashboard.aspx)
 - [JMU fact book](https://www.jmu.edu/pair/ir/factbook/index.shtml)
+- [JMU GIS maps](https://www.jmu.edu/facmgt/gis/maps-data.shtml)
 - [Restaurant inspections](https://inspections.myhealthdepartment.com/va-central-shenandoah)
 - [Virginia 811 locate requests](https://va811.com/check-status/ticket-search/)
 
