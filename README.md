@@ -13,6 +13,7 @@
 - [JMU solar production](https://solrenview.com/SolrenView/mainFr.php?siteId=6205)
 - [JMU sustainability dashboard](https://www.jmu.edu/facmgt/sustainability/sustainability-dashboard/index.shtml)
 - [PJM regional power grid](https://www.pjm.com/markets-and-operations.aspx)
+- [VA wildfire map](https://virginiapro.firesponse.com/public/)
 
 ## Governance
 
