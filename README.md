@@ -18,6 +18,7 @@
 ## Governance
 
 - [Harrisonburg city council agendas/minutes](https://harrisonburg-va.legistar.com/Calendar.aspx)
+- [Harrisonburg electoral board minutes](https://www.harrisonburgva.gov/electoral-board)
 - [JMU Board of Visitors agendas/minutes](https://www.jmu.edu/visitors/)
 - [JMU Faculty Senate agendas/minutes](https://www.jmu.edu/faculty/senate/meetings.shtml)
 - [VA bills before the General Assembly](https://lis.virginia.gov/)
@@ -57,6 +58,6 @@
 
 - [Harrisonburg surplus sales](https://www.publicsurplus.com/sms/harrisonburg,va/list/current?orgid=14018)
 - [Harrisonburg/JMU RFPs](https://mvendor.cgieva.com/Vendor/public/AllOpportunities.jsp)
-- [JMU surplus sales (rare)](https://www.govdeals.com/)
+- [JMU surplus sales](https://www.govdeals.com/) (rare)
 - [JMU contracts](https://cipag.jmu.edu/cipag/)
 - [VA higher-ed cooperative contracts](https://vascupp.org/contracts)
