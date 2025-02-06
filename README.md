@@ -2,6 +2,7 @@
 
 ## Crime
 
+- [JMU club crime](https://www.jmu.edu/osarp/org-records.shtml)
 - [JMU crime log](https://www.jmu.edu/police/clerycompliance/daily-crime-log.shtml)
 - [Virginia court records](https://www.vacourts.gov/caseinfo/home.html)
 - [Virginia crime stats](https://va.beyond2020.com/va_public)
