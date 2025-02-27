@@ -33,7 +33,7 @@
 - [JMU CHBS (archived)](https://app.oxblue.com?openlink=Skanska/Harrisonburg)
 - [JMU D-Hall (archived)](https://app.oxblue.com/?openlink=skanska/JMUDining)
 - [JMU new dorm](https://app.oxblue.com/?openlink=sbballard/jmu-village-housing)
-- [JMU Quad](https://www.youtube.com/watch?v=NUc5p2yWbk8)
+- [JMU Quad](https://www.youtube.com/watch?v=aN9I_5ALoAA)
 - [JMU Wind-turbine Weatherbug](https://www.weatherbug.com/weather-camera/?cam=HRRJM)
 - [VDOT Traffic Cameras](https://www.511virginia.org/)
 
@@ -43,6 +43,7 @@
 - [Harrisonburg real estate](https://www.harrisonburgva.gov/real-estate-info-system)
 - [JMU financial audit](https://www.apa.virginia.gov/APA_Reports/Reports.aspx)
 - [JMU salaries](https://www.breezejmu.org/databases/jmu_salaries/)
+- [VA budget requests](https://dpb.virginia.gov/budget/budget.cfm?page=AgySub)
 - [VA revenue status](https://www.finance.virginia.gov/key-documents/master-reports-list/)
 - [VA state budget](https://budget.lis.virginia.gov/)
 - [VA state expenditures](https://www.datapoint.apa.virginia.gov/dashboard.php?Page=Expenditures)
