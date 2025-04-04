@@ -47,6 +47,7 @@
 - [VA revenue status](https://www.finance.virginia.gov/key-documents/master-reports-list/)
 - [VA state budget](https://budget.lis.virginia.gov/)
 - [VA state expenditures](https://www.datapoint.apa.virginia.gov/dashboard.php?Page=Expenditures)
+- [VA upcoming layoffs](https://www.virginiaworks.gov/warn-notices/)
 
 ## Random
 
