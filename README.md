@@ -9,6 +9,7 @@
 
 ## Energy and Environment
 
+- [VA drought status](https://www.deq.virginia.gov/water/water-quantity/drought)
 - [Harrisonburg solar production](https://dashboard-portal.solarpark-online.com/index.php?uid=JBhutMTf)
 - [Harrisonburg water quality report](https://www.harrisonburgva.gov/water-quality)
 - [JMU solar production](https://solrenview.com/SolrenView/mainFr.php?siteId=6205)
